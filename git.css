@@ -1,0 +1,24 @@
+table{
+
+background-color: red;
+	text-align: center;
+	border: solid;
+	border-radius: 20px;
+
+}
+th{background-color: cyan;
+	border: solid;
+	border-radius: 20px;
+
+}
+h1{
+	text-align: center;
+	color: red;
+
+}
+body{
+	background-color: cyan;
+}
+.commande{
+	
+}
